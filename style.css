@@ -1,0 +1,19 @@
+.container{
+    display: flex;
+justify-content: center;
+
+}
+
+.box{
+    height: 44px;
+ border: 2px solid black;
+ padding: 8px;
+ margin: 4px;
+    width: 44px;
+  
+}
+
+body{ background-color: rgb(152, 219, 108);
+
+}
+
